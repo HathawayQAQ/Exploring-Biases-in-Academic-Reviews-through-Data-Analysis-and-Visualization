@@ -6,4 +6,4 @@ This project, inspired by the work of scholars from Stanford University, dives i
 The primary goal is to discern patterns in word usage across different contexts, bringing to light any inherent biases, especially gender bias, that might influence students' anonymous feedback. This insight is crucial, considering the substantial impact such reviews can have on professors’ academic and professional paths. The project is a hands-on journey from building foundational data structures to visualizing and understanding the subtleties of language in student feedback.
 
 ## Skills
-Data Parsing and Management, Object-Oriented Programming (OOP), Data Analysis, Data Visualization
+Data Parsing and Management, Object-Oriented Programming (OOP), Data Analysis, Data Visualization...
