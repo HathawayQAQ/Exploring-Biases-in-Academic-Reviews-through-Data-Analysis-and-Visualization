@@ -1,6 +1,3 @@
-//import java.math.RoundingMode;
-//import java.text.DecimalFormat;
-
 public class RatingDistributionBySchool extends DataAnalyzer {
 
     private MyHashTable<String, MyHashTable<String, Integer>> data;
