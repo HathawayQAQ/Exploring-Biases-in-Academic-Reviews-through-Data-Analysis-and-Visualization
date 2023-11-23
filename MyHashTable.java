@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.LinkedList;
-//import java.util.NoSuchElementException;
 
 public class MyHashTable<K, V> implements Iterable<MyPair<K, V>> {
 
